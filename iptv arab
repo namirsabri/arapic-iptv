@@ -1,113 +1,921 @@
 #EXTM3U
-#EXTINF:-1,|AR|_MBC_2
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/65.ts
-#EXTINF:-1,|AR|_MBC_4
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/62.ts
-#EXTINF:-1,|AR|_MBC_1 www.iptv4sat.com
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/61.ts
-#EXTINF:-1,|AR|_Majed_Kids
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/76.ts
-#EXTINF:-1,|AR|_Makkah_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/89.ts
-#EXTINF:-1,|AR|_SAUDI_SONNA_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/5.ts
-#EXTINF:-1,|AR|_SAUDI_QURAN_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/4.ts
-#EXTINF:-1,|AR|_DUBAI_ONE_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/15.ts
-#EXTINF:-1,|AR|_ABUDHABI_Emirat
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/70.ts
-#EXTINF:-1,|AR|_2M_MAROC www.iptv4sat.com
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/44.ts
-#EXTINF:-1,|AR|_medi1afrique
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/95.ts
-#EXTINF:-1,|AR|_Libya_Hadash
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/79.ts
-#EXTINF:-1,|AR|_Libya_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/81.ts
-#EXTINF:-1,|AR|_Libya_One
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/78.ts
-#EXTINF:-1,|AR|_Libya218
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/77.ts
-#EXTINF:-1,|AR|_Libya_24
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/80.ts
-#EXTINF:-1,|AR|_AD_Drama
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/69.ts
-#EXTINF:-1,|AR|_Al_Jazeera_Documentaire
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/46.ts
-#EXTINF:-1,|AR|_Al_Arabiya
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/38.ts
-#EXTINF:-1,|AR|_Al_Hadath
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/40.ts
-#EXTINF:-1,|AR|_MTV_lebenon
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/103.ts
-#EXTINF:-1,|AR|_ABU_DHABI_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/53.ts
-#EXTINF:-1,|AR|_SAUDI_1_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/2.ts
-#EXTINF:-1,|AR|_SAMA_DUBAI_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/12.ts
-#EXTINF:-1,|AR|_NOUR_DUBAI
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/16.ts
-#EXTINF:-1,|AR|_FUTURE_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/17.ts
-#EXTINF:-1,|AR|_DW_AR
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/22.ts
-#EXTINF:-1,|AR|_DUBAI_ZAMAN
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/11.ts
-#EXTINF:-1,|AR|_DUBAI_TV_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/10.ts
-#EXTINF:-1,|AR|_SHARJAH_SPORTS
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/39.ts
-#EXTINF:-1,|AR|_SAUDI_RIYADHIYA_1_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/9.ts
-#EXTINF:-1,|AR|_DUBAI_RACING_1_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/13.ts
-#EXTINF:-1,|AR|_DUBAI_RACING_2_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/14.ts
-#EXTINF:-1,|AR|_DUBAI_SPORTS_3_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/18.ts
-#EXTINF:-1,|AR|_SAUDI_2_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/1.ts
-#EXTINF:-1,|AR|_ROTANA_KHALIJIA_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/125.ts
-#EXTINF:-1,|AR|_BAHRAIN_SPORTS
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/140.ts
-#EXTINF:-1,|AR|_BAHRAIN_QURAN
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/139.ts
-#EXTINF:-1,|AR|_BAHRAIN_INTERNATIONAL
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/138.ts
-#EXTINF:-1,|AR|_TOYOR_ALJANAH
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/126.ts
-#EXTINF:-1,|AR|_BAHRAIN_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/137.ts
-#EXTINF:-1,|AR|_TUNISIE_NAT1_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/57.ts
-#EXTINF:-1,|AR|_TUNISIE_NAT2_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/58.ts
-#EXTINF:-1,|AR|_Elhiwar_Ettounsi
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/91.ts
-#EXTINF:-1,|AR|_ZITOUNA
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/60.ts
-#EXTINF:-1,|AR|_Aouala
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/55.ts
-#EXTINF:-1,|AR|_FRANCE_24_AR
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/20.ts
-#EXTINF:-1,|AR|_Sky_News_Arabic
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/45.ts
-#EXTINF:-1,|AR|_BBC_Arabic
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/28.ts
-#EXTINF:-1,www.iptv4sat.com |AR|_ALAAN_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/19.ts
-#EXTINF:-1,|AR|_RUSSIA ALYAOUM_TV
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/88.ts
-#EXTINF:-1,|AR|_hiwar_news
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/67.ts
-#EXTINF:-1,|AR|_Alalam_news
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/97.ts
-#EXTINF:-1,|AR|_SAUDI_ALIKHBARIYA_HD
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/3.ts
-#EXTINF:-1,|AR|_Space_Toon
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/75.ts
-#EXTINF:-1,|AR|_CBC_Drama
-http://sv1.mayootv.ovh:1914/live/medoum1/FH6Oxe1vOH/42.ts
+#EXTINF:-1,AR_beINSport1HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17717.ts
+#EXTINF:-1,AR_beINSport2HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17716.ts
+#EXTINF:-1,AR_beINSport3HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17715.ts
+#EXTINF:-1,AR_beINSport4HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17714.ts
+#EXTINF:-1,AR_beINSport5HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17713.ts
+#EXTINF:-1,AR_beINSport6HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17712.ts
+#EXTINF:-1,AR_beINSport7HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17711.ts
+#EXTINF:-1,AR_beINSport8HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17710.ts
+#EXTINF:-1,AR_beINSport9HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17709.ts
+#EXTINF:-1,AR_beINSport10HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17708.ts
+#EXTINF:-1,AR_BEIN-SPORTS11HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17707.ts
+#EXTINF:-1,AR_BEIN-SPORTS12HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17706.ts
+#EXTINF:-1,Ar_Mbc1
+http://163.172.89.139:1795/live/dogus1/dogus1/17705.ts
+#EXTINF:-1,Ar_Mbc2
+http://163.172.89.139:1795/live/dogus1/dogus1/17704.ts
+#EXTINF:-1,Ar_Mbc3
+http://163.172.89.139:1795/live/dogus1/dogus1/17703.ts
+#EXTINF:-1,Ar_Mbc4
+http://163.172.89.139:1795/live/dogus1/dogus1/17702.ts
+#EXTINF:-1,Ar_MbcDrama
+http://163.172.89.139:1795/live/dogus1/dogus1/17699.ts
+#EXTINF:-1,Ar_MbcMasr
+http://163.172.89.139:1795/live/dogus1/dogus1/17700.ts
+#EXTINF:-1,Ar_MbcMasr2 https://iptv.zone
+http://163.172.89.139:1795/live/dogus1/dogus1/17701.ts
+#EXTINF:-1,AR: 2M MAROC
+http://163.172.89.139:1795/live/dogus1/dogus1/17648.ts
+#EXTINF:-1,AR: ABU DHABI DRAMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17647.ts
+#EXTINF:-1,AR: ABU DHABI EMARAT
+http://163.172.89.139:1795/live/dogus1/dogus1/17646.ts
+#EXTINF:-1,AR: AD NAT GEO DM
+http://163.172.89.139:1795/live/dogus1/dogus1/17645.ts
+#EXTINF:-1,AR: AD SPORT 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17644.ts
+#EXTINF:-1,AR: AD SPORT 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17500.ts
+#EXTINF:-1,AR: AD SPORT 3
+http://163.172.89.139:1795/live/dogus1/dogus1/17499.ts
+#EXTINF:-1,AR: AD SPORT1
+http://163.172.89.139:1795/live/dogus1/dogus1/17498.ts
+#EXTINF:-1,AR: ADEN TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17497.ts
+#EXTINF:-1,AR: AGHANI LEBNON
+http://163.172.89.139:1795/live/dogus1/dogus1/17496.ts
+#EXTINF:-1,AR: Aghani Music
+http://163.172.89.139:1795/live/dogus1/dogus1/17495.ts
+#EXTINF:-1,AR: Aghapy Christian
+http://163.172.89.139:1795/live/dogus1/dogus1/17494.ts
+#EXTINF:-1,AR: Ahel Alquran Islamic
+http://163.172.89.139:1795/live/dogus1/dogus1/17493.ts
+#EXTINF:-1,AR: AJMAN UAE
+http://163.172.89.139:1795/live/dogus1/dogus1/17492.ts
+#EXTINF:-1,AR: Ajyel
+http://163.172.89.139:1795/live/dogus1/dogus1/17642.ts
+#EXTINF:-1,AR: AL JADEED
+http://163.172.89.139:1795/live/dogus1/dogus1/17491.ts
+#EXTINF:-1,AR: Al MAGHRABIA 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17490.ts
+#EXTINF:-1,AR: Al MUSTAKILLAH TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17489.ts
+#EXTINF:-1,AR: AL AAN TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17488.ts
+#EXTINF:-1,AR: AL ALAM NEWS
+http://163.172.89.139:1795/live/dogus1/dogus1/17487.ts
+#EXTINF:-1,AR: Al AOULALTER HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17486.ts
+#EXTINF:-1,AR: Al ARABIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17485.ts
+#EXTINF:-1,AR: AL ARABIA HADATH
+http://163.172.89.139:1795/live/dogus1/dogus1/17484.ts
+#EXTINF:-1,AR: AL ARABIA TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17641.ts
+#EXTINF:-1,AR: AL ARABIYA
+http://163.172.89.139:1795/live/dogus1/dogus1/17640.ts
+#EXTINF:-1,AR: Al basira Islamic
+http://163.172.89.139:1795/live/dogus1/dogus1/17483.ts
+#EXTINF:-1,AR: AL DIYAAR
+http://163.172.89.139:1795/live/dogus1/dogus1/17482.ts
+#EXTINF:-1,AR: AL EKHBARIA SAUDI
+http://163.172.89.139:1795/live/dogus1/dogus1/17481.ts
+#EXTINF:-1,AR: Al Emarat TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17480.ts
+#EXTINF:-1,AR: AL Falstiniah
+http://163.172.89.139:1795/live/dogus1/dogus1/17479.ts
+#EXTINF:-1,AR: Al Hayat
+http://163.172.89.139:1795/live/dogus1/dogus1/17639.ts
+#EXTINF:-1,AR: AL HAYAT 2 LIVE
+http://163.172.89.139:1795/live/dogus1/dogus1/17638.ts
+#EXTINF:-1,AR: Al Hiwar TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17478.ts
+#EXTINF:-1,AR: AL HURRA IRAQ
+http://163.172.89.139:1795/live/dogus1/dogus1/17477.ts
+#EXTINF:-1,AR: Al INSAN TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17476.ts
+#EXTINF:-1,AR: AL INSSEN https://iptv.zone
+http://163.172.89.139:1795/live/dogus1/dogus1/17475.ts
+#EXTINF:-1,AR: AL IRAQIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17637.ts
+#EXTINF:-1,AR: AL JADEED
+http://163.172.89.139:1795/live/dogus1/dogus1/17474.ts
+#EXTINF:-1,AR: AL JADEED HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17636.ts
+#EXTINF:-1,AR: AL JADEED SD
+http://163.172.89.139:1795/live/dogus1/dogus1/17635.ts
+#EXTINF:-1,AR: AL JANOUBIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17634.ts
+#EXTINF:-1,AR: AL JANOUBIA TN
+http://163.172.89.139:1795/live/dogus1/dogus1/17633.ts
+#EXTINF:-1,AR: AL JAZEERA
+http://163.172.89.139:1795/live/dogus1/dogus1/17632.ts
+#EXTINF:-1,AR: al jazeera mubasher
+http://163.172.89.139:1795/live/dogus1/dogus1/17631.ts
+#EXTINF:-1,AR: AL JAZEERA MUBASHER LIVE
+http://163.172.89.139:1795/live/dogus1/dogus1/17630.ts
+#EXTINF:-1,AR: AL KASS ONLINE
+http://163.172.89.139:1795/live/dogus1/dogus1/17473.ts
+#EXTINF:-1,AR: AL MAJD
+http://163.172.89.139:1795/live/dogus1/dogus1/17472.ts
+#EXTINF:-1,AR: AL MANAR HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17629.ts
+#EXTINF:-1,AR: Al Masrawia Aflam
+http://163.172.89.139:1795/live/dogus1/dogus1/17471.ts
+#EXTINF:-1,AR: Al Masriya
+http://163.172.89.139:1795/live/dogus1/dogus1/17470.ts
+#EXTINF:-1,AR: AL MAYADEEN
+http://163.172.89.139:1795/live/dogus1/dogus1/17628.ts
+#EXTINF:-1,AR: AL NABAA TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17469.ts
+#EXTINF:-1,AR: Al Nahar
+http://163.172.89.139:1795/live/dogus1/dogus1/17468.ts
+#EXTINF:-1,AR: AL NAHAR 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17627.ts
+#EXTINF:-1,AR: AL NAHAR ALYOUM
+http://163.172.89.139:1795/live/dogus1/dogus1/17626.ts
+#EXTINF:-1,AR: AL NAHAR CINEMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17625.ts
+#EXTINF:-1,AR: AL NAHAR DRAMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17624.ts
+#EXTINF:-1,AR: AL NAHAR TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17623.ts
+#EXTINF:-1,AR: Al OULA MAROC
+http://163.172.89.139:1795/live/dogus1/dogus1/17622.ts
+#EXTINF:-1,AR: AL OULA TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17621.ts
+#EXTINF:-1,AR: AL QODS
+http://163.172.89.139:1795/live/dogus1/dogus1/17467.ts
+#EXTINF:-1,AR: AL RASHEED
+http://163.172.89.139:1795/live/dogus1/dogus1/17620.ts
+#EXTINF:-1,AR: Al Resala
+http://163.172.89.139:1795/live/dogus1/dogus1/17619.ts
+#EXTINF:-1,AR: AL RESALAH
+http://163.172.89.139:1795/live/dogus1/dogus1/17618.ts
+#EXTINF:-1,AR: AL RUSHD YEM
+http://163.172.89.139:1795/live/dogus1/dogus1/17466.ts
+#EXTINF:-1,AR: Al Sharja
+http://163.172.89.139:1795/live/dogus1/dogus1/17617.ts
+#EXTINF:-1,AR: Al Sharjah
+http://163.172.89.139:1795/live/dogus1/dogus1/17465.ts
+#EXTINF:-1,AR: Al Sharjah Sports
+http://163.172.89.139:1795/live/dogus1/dogus1/17464.ts
+#EXTINF:-1,AR: AL SHAROUK TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17463.ts
+#EXTINF:-1,AR: AL SHARQIA TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17616.ts
+#EXTINF:-1,AR: AL SHARQIAYA
+http://163.172.89.139:1795/live/dogus1/dogus1/17615.ts
+#EXTINF:-1,AR: Al Sharqiya
+http://163.172.89.139:1795/live/dogus1/dogus1/17614.ts
+#EXTINF:-1,AR: AL SHARQIYA HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17462.ts
+#EXTINF:-1,AR: Al Sharqiya News
+http://163.172.89.139:1795/live/dogus1/dogus1/17613.ts
+#EXTINF:-1,AR: Al SHARQIYA TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17461.ts
+#EXTINF:-1,AR: AL SUMARIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17612.ts
+#EXTINF:-1,AR: Al_Thania_Egypt
+http://163.172.89.139:1795/live/dogus1/dogus1/17460.ts
+#EXTINF:-1,AR: AL-ARABY TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17459.ts
+#EXTINF:-1,AR: AL-HAYAT2
+http://163.172.89.139:1795/live/dogus1/dogus1/17458.ts
+#EXTINF:-1,AR: ALARABIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17611.ts
+#EXTINF:-1,AR: ALARABIA HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17610.ts
+#EXTINF:-1,AR: Alfady Christian
+http://163.172.89.139:1795/live/dogus1/dogus1/17457.ts
+#EXTINF:-1,AR: ALGERIA 3
+http://163.172.89.139:1795/live/dogus1/dogus1/17456.ts
+#EXTINF:-1,AR: ALHADATH NEWS
+http://163.172.89.139:1795/live/dogus1/dogus1/17455.ts
+#EXTINF:-1,AR: ALHADEF
+http://163.172.89.139:1795/live/dogus1/dogus1/17609.ts
+#EXTINF:-1,AR: ALHAYAT 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17454.ts
+#EXTINF:-1,AR: ALHAYAT ALAAN
+http://163.172.89.139:1795/live/dogus1/dogus1/17453.ts
+#EXTINF:-1,AR: ALHAYAT MUSALSALAT
+http://163.172.89.139:1795/live/dogus1/dogus1/17452.ts
+#EXTINF:-1,AR: ALHIWAR TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17451.ts
+#EXTINF:-1,AR: Alhorreya Christian
+http://163.172.89.139:1795/live/dogus1/dogus1/17450.ts
+#EXTINF:-1,AR: ALHorreya TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17608.ts
+#EXTINF:-1,AR: Aliraqia
+http://163.172.89.139:1795/live/dogus1/dogus1/17449.ts
+#EXTINF:-1,AR: ALJAZEERA DOC
+http://163.172.89.139:1795/live/dogus1/dogus1/17607.ts
+#EXTINF:-1,AR: ALJAZEERA DOCUMENTARY (DOC)
+http://163.172.89.139:1795/live/dogus1/dogus1/17448.ts
+#EXTINF:-1,AR: ALKAHERA WALNAS
+http://163.172.89.139:1795/live/dogus1/dogus1/17447.ts
+#EXTINF:-1,AR: ALKAHERA WALNAS 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17446.ts
+#EXTINF:-1,AR: Almaaly Islamic
+http://163.172.89.139:1795/live/dogus1/dogus1/17445.ts
+#EXTINF:-1,AR: ALMAGHRIBIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17606.ts
+#EXTINF:-1,AR: ALMAJD
+http://163.172.89.139:1795/live/dogus1/dogus1/17605.ts
+#EXTINF:-1,AR: ALMAJD 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17604.ts
+#EXTINF:-1,AR: Almajd Edu islamic
+http://163.172.89.139:1795/live/dogus1/dogus1/17444.ts
+#EXTINF:-1,AR: Almajd Scientific islamic
+http://163.172.89.139:1795/live/dogus1/dogus1/17443.ts
+#EXTINF:-1,AR: ALMANAR TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17442.ts
+#EXTINF:-1,AR: ALMASEERA YEM
+http://163.172.89.139:1795/live/dogus1/dogus1/17441.ts
+#EXTINF:-1,AR: ALNAS
+http://163.172.89.139:1795/live/dogus1/dogus1/17603.ts
+#EXTINF:-1,AR: ALOULA MARROCO
+http://163.172.89.139:1795/live/dogus1/dogus1/17440.ts
+#EXTINF:-1,AR: ALQAD ALMUSHRAQ
+http://163.172.89.139:1795/live/dogus1/dogus1/17439.ts
+#EXTINF:-1,AR: AlQuds
+http://163.172.89.139:1795/live/dogus1/dogus1/17438.ts
+#EXTINF:-1,AR: Alrasheed Iraqia
+http://163.172.89.139:1795/live/dogus1/dogus1/17437.ts
+#EXTINF:-1,AR: ALRAYAN
+http://163.172.89.139:1795/live/dogus1/dogus1/17436.ts
+#EXTINF:-1,AR: ALSAHAT YEM
+http://163.172.89.139:1795/live/dogus1/dogus1/17435.ts
+#EXTINF:-1,AR: ALSalam Palestine
+http://163.172.89.139:1795/live/dogus1/dogus1/17434.ts
+#EXTINF:-1,AR: ALSEEDA YEM
+http://163.172.89.139:1795/live/dogus1/dogus1/17433.ts
+#EXTINF:-1,AR: ALSHARQIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17602.ts
+#EXTINF:-1,AR: Alshouroq Sudan
+http://163.172.89.139:1795/live/dogus1/dogus1/17432.ts
+#EXTINF:-1,AR: Alwaa3d Christian
+http://163.172.89.139:1795/live/dogus1/dogus1/17431.ts
+#EXTINF:-1,AR: ANB IRAQ
+http://163.172.89.139:1795/live/dogus1/dogus1/17430.ts
+#EXTINF:-1,AR: ANNAHAR DRAME
+http://163.172.89.139:1795/live/dogus1/dogus1/17601.ts
+#EXTINF:-1,AR: ARABICA TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17429.ts
+#EXTINF:-1,AR: ART Aflam 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17600.ts
+#EXTINF:-1,AR: ART AFLAM 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17599.ts
+#EXTINF:-1,AR: Art Aflam1
+http://163.172.89.139:1795/live/dogus1/dogus1/17428.ts
+#EXTINF:-1,AR: ART Cinema
+http://163.172.89.139:1795/live/dogus1/dogus1/17598.ts
+#EXTINF:-1,AR: ART CINEMA HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17597.ts
+#EXTINF:-1,AR: ART HEKAYAT 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17427.ts
+#EXTINF:-1,AR: Art Hekayat 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17596.ts
+#EXTINF:-1,AR: ART_Aflam2
+http://163.172.89.139:1795/live/dogus1/dogus1/17426.ts
+#EXTINF:-1,AR: ART-Aflam-1-HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17595.ts
+#EXTINF:-1,AR: ART-Aflam-2-HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17594.ts
+#EXTINF:-1,AR: ATTASSIA TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17593.ts
+#EXTINF:-1,AR: ATTESSIA TUNISIE
+http://163.172.89.139:1795/live/dogus1/dogus1/17425.ts
+#EXTINF:-1,AR: Awdeh Palestine
+http://163.172.89.139:1795/live/dogus1/dogus1/17424.ts
+#EXTINF:-1,AR: Azhari Islamic
+http://163.172.89.139:1795/live/dogus1/dogus1/17423.ts
+#EXTINF:-1,AR: B4U
+http://163.172.89.139:1795/live/dogus1/dogus1/17422.ts
+#EXTINF:-1,AR: B4U AFLAM
+http://163.172.89.139:1795/live/dogus1/dogus1/17592.ts
+#EXTINF:-1,AR: B4U Movies
+http://163.172.89.139:1795/live/dogus1/dogus1/17421.ts
+#EXTINF:-1,AR: Bahrain Quran
+http://163.172.89.139:1795/live/dogus1/dogus1/17420.ts
+#EXTINF:-1,AR: BAHRAIN SPORT
+http://163.172.89.139:1795/live/dogus1/dogus1/17419.ts
+#EXTINF:-1,AR: BAHRAIN SPORT 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17591.ts
+#EXTINF:-1,AR: BAHRAIN TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17590.ts
+#EXTINF:-1,AR: BALQEES YEM
+http://163.172.89.139:1795/live/dogus1/dogus1/17418.ts
+#EXTINF:-1,AR: BAQHDAD TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17417.ts
+#EXTINF:-1,AR: BARAEM HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17589.ts
+#EXTINF:-1,AR: BAREAM KIDS
+http://163.172.89.139:1795/live/dogus1/dogus1/17416.ts
+#EXTINF:-1,AR: BBC
+http://163.172.89.139:1795/live/dogus1/dogus1/17588.ts
+#EXTINF:-1,AR: BBC ARABIC
+http://163.172.89.139:1795/live/dogus1/dogus1/17415.ts
+#EXTINF:-1,AR: BBC NEW ARAB
+http://163.172.89.139:1795/live/dogus1/dogus1/17587.ts
+#EXTINF:-1,AR: BEIN MOVIES 1 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17696.ts
+#EXTINF:-1,AR: BEIN MOVIES 1 SD
+http://163.172.89.139:1795/live/dogus1/dogus1/17695.ts
+#EXTINF:-1,AR: BEIN MOVIES 2 SD
+http://163.172.89.139:1795/live/dogus1/dogus1/17694.ts
+#EXTINF:-1,AR: BEIN MOVIES 3 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17693.ts
+#EXTINF:-1,AR: BEIN SPORTS NEWS*
+http://163.172.89.139:1795/live/dogus1/dogus1/17698.ts
+#EXTINF:-1,AR: BELQEES TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17414.ts
+#EXTINF:-1,AR: Bin Othmaien Islamic
+http://163.172.89.139:1795/live/dogus1/dogus1/17413.ts
+#EXTINF:-1,AR: C Sat Christian
+http://163.172.89.139:1795/live/dogus1/dogus1/17412.ts
+#EXTINF:-1,AR: CAIRO CINEMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17586.ts
+#EXTINF:-1,AR: Satellite TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17585.ts
+#EXTINF:-1,AR: CARTOON NET WORK
+http://163.172.89.139:1795/live/dogus1/dogus1/17411.ts
+#EXTINF:-1,AR: Cartoon Network
+http://163.172.89.139:1795/live/dogus1/dogus1/17584.ts
+#EXTINF:-1,AR: CBC
+http://163.172.89.139:1795/live/dogus1/dogus1/17583.ts
+#EXTINF:-1,AR: CBC DRAMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17582.ts
+#EXTINF:-1,AR: CBC EXTRA
+http://163.172.89.139:1795/live/dogus1/dogus1/17581.ts
+#EXTINF:-1,AR: CBC SOFRA
+http://163.172.89.139:1795/live/dogus1/dogus1/17580.ts
+#EXTINF:-1,AR: CBC SOFRA HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17579.ts
+#EXTINF:-1,AR: CBS DRAMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17410.ts
+#EXTINF:-1,AR: CIMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17409.ts
+#EXTINF:-1,AR: CIMA ALIBABA
+http://163.172.89.139:1795/live/dogus1/dogus1/17408.ts
+#EXTINF:-1,AR: CINEMA 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17407.ts
+#EXTINF:-1,AR: CINEMA 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17406.ts
+#EXTINF:-1,AR: CINEMA KSA
+http://163.172.89.139:1795/live/dogus1/dogus1/17578.ts
+#EXTINF:-1,AR: CINEMA PRO
+http://163.172.89.139:1795/live/dogus1/dogus1/17405.ts
+#EXTINF:-1,AR: CN Arabia Kids
+http://163.172.89.139:1795/live/dogus1/dogus1/17404.ts
+#EXTINF:-1,AR: DIJLA
+http://163.172.89.139:1795/live/dogus1/dogus1/17577.ts
+#EXTINF:-1,AR: DIJLA SD
+http://163.172.89.139:1795/live/dogus1/dogus1/17576.ts
+#EXTINF:-1,AR: DJAZAIRIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17575.ts
+#EXTINF:-1,AR: DMC
+http://163.172.89.139:1795/live/dogus1/dogus1/17403.ts
+#EXTINF:-1,AR: DUBAI DRAMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17574.ts
+#EXTINF:-1,AR: DUBAI ONE
+http://163.172.89.139:1795/live/dogus1/dogus1/17573.ts
+#EXTINF:-1,AR: DUBAI RACING
+http://163.172.89.139:1795/live/dogus1/dogus1/17572.ts
+#EXTINF:-1,AR: DUBAI SPORT 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17571.ts
+#EXTINF:-1,AR: DUBAI SPORT 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17570.ts
+#EXTINF:-1,AR: DUBAI SPORT 3
+http://163.172.89.139:1795/live/dogus1/dogus1/17569.ts
+#EXTINF:-1,AR: Dubai Sports
+http://163.172.89.139:1795/live/dogus1/dogus1/17568.ts
+#EXTINF:-1,AR: Dubai TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17567.ts
+#EXTINF:-1,AR: DubaiN One
+http://163.172.89.139:1795/live/dogus1/dogus1/17402.ts
+#EXTINF:-1,AR: DubaiSport 3
+http://163.172.89.139:1795/live/dogus1/dogus1/17401.ts
+#EXTINF:-1,AR: DZ SAMIRA
+http://163.172.89.139:1795/live/dogus1/dogus1/17400.ts
+#EXTINF:-1,AR: Dzaier TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17566.ts
+#EXTINF:-1,AR: ECHOROUK HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17565.ts
+#EXTINF:-1,AR: Echorouk_News
+http://163.172.89.139:1795/live/dogus1/dogus1/17399.ts
+#EXTINF:-1,AR: EL HIWAR ETTOUNSI
+http://163.172.89.139:1795/live/dogus1/dogus1/17564.ts
+#EXTINF:-1,AR: El Sharq
+http://163.172.89.139:1795/live/dogus1/dogus1/17398.ts
+#EXTINF:-1,AR: ELHIWAR ETTOUNSI
+http://163.172.89.139:1795/live/dogus1/dogus1/17397.ts
+#EXTINF:-1,AR: ELNAS 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17563.ts
+#EXTINF:-1,AR: ENNHAR TV DZ
+http://163.172.89.139:1795/live/dogus1/dogus1/17396.ts
+#EXTINF:-1,AR: ESC
+http://163.172.89.139:1795/live/dogus1/dogus1/17395.ts
+#EXTINF:-1,AR: ETTOUNSIA TN
+http://163.172.89.139:1795/live/dogus1/dogus1/17562.ts
+#EXTINF:-1,AR: FIRST TV TN
+http://163.172.89.139:1795/live/dogus1/dogus1/17561.ts
+#EXTINF:-1,AR: FUTURE
+http://163.172.89.139:1795/live/dogus1/dogus1/17560.ts
+#EXTINF:-1,AR: Future TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17394.ts
+#EXTINF:-1,AR: future_liban
+http://163.172.89.139:1795/live/dogus1/dogus1/17393.ts
+#EXTINF:-1,AR: Hala Palestine
+http://163.172.89.139:1795/live/dogus1/dogus1/17392.ts
+#EXTINF:-1,AR: HANIBAL TN
+http://163.172.89.139:1795/live/dogus1/dogus1/17559.ts
+#EXTINF:-1,AR: HANNIBAL
+http://163.172.89.139:1795/live/dogus1/dogus1/17391.ts
+#EXTINF:-1,AR: HANNIBAL TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17390.ts
+#EXTINF:-1,AR: HANNIBAL TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17558.ts
+#EXTINF:-1,AR: IMAGINE MOVIES
+http://163.172.89.139:1795/live/dogus1/dogus1/17389.ts
+#EXTINF:-1,AR: IQRA
+http://163.172.89.139:1795/live/dogus1/dogus1/17557.ts
+#EXTINF:-1,AR: IQRAA
+http://163.172.89.139:1795/live/dogus1/dogus1/17388.ts
+#EXTINF:-1,AR: IQRAA TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17556.ts
+#EXTINF:-1,AR: IRAQIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17387.ts
+#EXTINF:-1,AR: Iraqia News
+http://163.172.89.139:1795/live/dogus1/dogus1/17386.ts
+#EXTINF:-1,AR: IRAQIA SPORTS
+http://163.172.89.139:1795/live/dogus1/dogus1/17385.ts
+#EXTINF:-1,AR: JEEM CATROON
+http://163.172.89.139:1795/live/dogus1/dogus1/17384.ts
+#EXTINF:-1,AR: JORDAN
+http://163.172.89.139:1795/live/dogus1/dogus1/17555.ts
+#EXTINF:-1,AR: JORDAN SPORTS
+http://163.172.89.139:1795/live/dogus1/dogus1/17383.ts
+#EXTINF:-1,AR: JORDAN TODAY
+http://163.172.89.139:1795/live/dogus1/dogus1/17382.ts
+#EXTINF:-1,AR: Jordan Zwina
+http://163.172.89.139:1795/live/dogus1/dogus1/17381.ts
+#EXTINF:-1,AR: KBC ALGERIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17554.ts
+#EXTINF:-1,AR: Kuwait
+http://163.172.89.139:1795/live/dogus1/dogus1/17553.ts
+#EXTINF:-1,AR: Kuwait 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17380.ts
+#EXTINF:-1,AR: KUWAIT 8 PLUS TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17379.ts
+#EXTINF:-1,AR: KUWAIT AL-ARABI
+http://163.172.89.139:1795/live/dogus1/dogus1/17378.ts
+#EXTINF:-1,AR: Kuwait Ethraa
+http://163.172.89.139:1795/live/dogus1/dogus1/17377.ts
+#EXTINF:-1,AR: KUWAIT SPORT
+http://163.172.89.139:1795/live/dogus1/dogus1/17376.ts
+#EXTINF:-1,AR: Kuwait Sports
+http://163.172.89.139:1795/live/dogus1/dogus1/17375.ts
+#EXTINF:-1,AR: LBC
+http://163.172.89.139:1795/live/dogus1/dogus1/17374.ts
+#EXTINF:-1,AR: LBC LEBANON
+http://163.172.89.139:1795/live/dogus1/dogus1/17373.ts
+#EXTINF:-1,AR: LBC SAT
+http://163.172.89.139:1795/live/dogus1/dogus1/17552.ts
+#EXTINF:-1,AR: LDC
+http://163.172.89.139:1795/live/dogus1/dogus1/17551.ts
+#EXTINF:-1,AR: LDC TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17550.ts
+#EXTINF:-1,AR: Lebanon TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17372.ts
+#EXTINF:-1,AR: ed
+http://163.172.89.139:1795/live/dogus1/dogus1/17371.ts
+#EXTINF:-1,AR:
+http://163.172.89.139:1795/live/dogus1/dogus1/17370.ts
+#EXTINF:-1,AR: LEBNON TV LIVE
+http://163.172.89.139:1795/live/dogus1/dogus1/17369.ts
+#EXTINF:-1,AR: LIBYA
+http://163.172.89.139:1795/live/dogus1/dogus1/17549.ts
+#EXTINF:-1,AR: LIBYA 24
+http://163.172.89.139:1795/live/dogus1/dogus1/17368.ts
+#EXTINF:-1,AR: LIBYA 24 TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17548.ts
+#EXTINF:-1,AR: Libya ALwatneh
+http://163.172.89.139:1795/live/dogus1/dogus1/17367.ts
+#EXTINF:-1,AR: Libya Channel
+http://163.172.89.139:1795/live/dogus1/dogus1/17366.ts
+#EXTINF:-1,AR: LIBYA FUTURE
+http://163.172.89.139:1795/live/dogus1/dogus1/17365.ts
+#EXTINF:-1,AR: Libya naba
+http://163.172.89.139:1795/live/dogus1/dogus1/17364.ts
+#EXTINF:-1,AR: Libya Panorama
+http://163.172.89.139:1795/live/dogus1/dogus1/17363.ts
+#EXTINF:-1,AR: Logos Christian
+http://163.172.89.139:1795/live/dogus1/dogus1/17362.ts
+#EXTINF:-1,AR: M TUNISA
+http://163.172.89.139:1795/live/dogus1/dogus1/17547.ts
+#EXTINF:-1,AR: M TUNISIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17361.ts
+#EXTINF:-1,AR: MAJD KIDS
+http://163.172.89.139:1795/live/dogus1/dogus1/17546.ts
+#EXTINF:-1,AR: MAJID KIDS
+http://163.172.89.139:1795/live/dogus1/dogus1/17545.ts
+#EXTINF:-1,AR: MBC 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17667.ts
+#EXTINF:-1,AR: MBC 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17666.ts
+#EXTINF:-1,AR: MBC 2 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17665.ts
+#EXTINF:-1,AR: MBC 3
+http://163.172.89.139:1795/live/dogus1/dogus1/17664.ts
+#EXTINF:-1,AR: MBC 3 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17663.ts
+#EXTINF:-1,AR: MBC 4
+http://163.172.89.139:1795/live/dogus1/dogus1/17662.ts
+#EXTINF:-1,AR: MBC 4 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17661.ts
+#EXTINF:-1,AR: MBC Action
+http://163.172.89.139:1795/live/dogus1/dogus1/17660.ts
+#EXTINF:-1,AR: MBC Action HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17659.ts
+#EXTINF:-1,AR: MBC BOLLYWOOD
+http://163.172.89.139:1795/live/dogus1/dogus1/17658.ts
+#EXTINF:-1,AR: MBC DRAMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17657.ts
+#EXTINF:-1,AR: MBC MASR
+http://163.172.89.139:1795/live/dogus1/dogus1/17656.ts
+#EXTINF:-1,AR: MBC Masr 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17655.ts
+#EXTINF:-1,AR: MBC MAX
+http://163.172.89.139:1795/live/dogus1/dogus1/17654.ts
+#EXTINF:-1,AR: MBC Pro Sports 1 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17653.ts
+#EXTINF:-1,AR: MBC Pro Sports 2 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17652.ts
+#EXTINF:-1,AR: MBC VARIETY
+http://163.172.89.139:1795/live/dogus1/dogus1/17360.ts
+#EXTINF:-1,AR: MBC-Action
+http://163.172.89.139:1795/live/dogus1/dogus1/17651.ts
+#EXTINF:-1,AR: MBC-MAX
+http://163.172.89.139:1795/live/dogus1/dogus1/17650.ts
+#EXTINF:-1,AR: MCB SPORT 1 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17649.ts
+#EXTINF:-1,AR: MEDI 1 TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17544.ts
+#EXTINF:-1,AR: Medi-1-Sat
+http://163.172.89.139:1795/live/dogus1/dogus1/17543.ts
+#EXTINF:-1,AR: Mekamleen
+http://163.172.89.139:1795/live/dogus1/dogus1/17359.ts
+#EXTINF:-1,AR: MELODY CLASSIC
+http://163.172.89.139:1795/live/dogus1/dogus1/17542.ts
+#EXTINF:-1,AR: MELODY_AFLAM
+http://163.172.89.139:1795/live/dogus1/dogus1/17358.ts
+#EXTINF:-1,AR: Menhag alnbowa Islamic
+http://163.172.89.139:1795/live/dogus1/dogus1/17357.ts
+#EXTINF:-1,AR: Miracle Christian
+http://163.172.89.139:1795/live/dogus1/dogus1/17356.ts
+#EXTINF:-1,AR: Misr alzera3ya
+http://163.172.89.139:1795/live/dogus1/dogus1/17355.ts
+#EXTINF:-1,AR: MODY KIDS
+http://163.172.89.139:1795/live/dogus1/dogus1/17354.ts
+#EXTINF:-1,AR: MOGA CINEMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17541.ts
+#EXTINF:-1,AR: MTV LEB
+http://163.172.89.139:1795/live/dogus1/dogus1/17353.ts
+#EXTINF:-1,AR: MTV LEBANON
+http://163.172.89.139:1795/live/dogus1/dogus1/17540.ts
+#EXTINF:-1,AR: MTV LEBNON
+http://163.172.89.139:1795/live/dogus1/dogus1/17352.ts
+#EXTINF:-1,AR: MUBASHER ALJAZEERA LIVE
+http://163.172.89.139:1795/live/dogus1/dogus1/17539.ts
+#EXTINF:-1,AR: Musawa Palestine
+http://163.172.89.139:1795/live/dogus1/dogus1/17351.ts
+#EXTINF:-1,AR: NABAA
+http://163.172.89.139:1795/live/dogus1/dogus1/17350.ts
+#EXTINF:-1,AR: NATIONAL 1 TN
+http://163.172.89.139:1795/live/dogus1/dogus1/17538.ts
+#EXTINF:-1,AR: NBN HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17537.ts
+#EXTINF:-1,AR: NBN LEB
+http://163.172.89.139:1795/live/dogus1/dogus1/17349.ts
+#EXTINF:-1,AR: NBN LEBANON
+http://163.172.89.139:1795/live/dogus1/dogus1/17348.ts
+#EXTINF:-1,AR: NESSMA HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17536.ts
+#EXTINF:-1,AR: NESSMA TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17535.ts
+#EXTINF:-1,AR: NILE CINEMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17534.ts
+#EXTINF:-1,AR: NILE COMEDY
+http://163.172.89.139:1795/live/dogus1/dogus1/17533.ts
+#EXTINF:-1,AR: NILE DRAMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17532.ts
+#EXTINF:-1,AR: NILE FAMILY
+http://163.172.89.139:1795/live/dogus1/dogus1/17347.ts
+#EXTINF:-1,AR: NILE LIFE
+http://163.172.89.139:1795/live/dogus1/dogus1/17531.ts
+#EXTINF:-1,AR: NILE NEWS
+http://163.172.89.139:1795/live/dogus1/dogus1/17346.ts
+#EXTINF:-1,AR: NILE SPORT
+http://163.172.89.139:1795/live/dogus1/dogus1/17530.ts
+#EXTINF:-1,AR: NILE_CINEMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17345.ts
+#EXTINF:-1,AR: Nile_Comedy
+http://163.172.89.139:1795/live/dogus1/dogus1/17344.ts
+#EXTINF:-1,AR: Nile-Sport
+http://163.172.89.139:1795/live/dogus1/dogus1/17343.ts
+#EXTINF:-1,AR: NOOR DUBAI
+http://163.172.89.139:1795/live/dogus1/dogus1/17342.ts
+#EXTINF:-1,AR: Noor Alshabab
+http://163.172.89.139:1795/live/dogus1/dogus1/17341.ts
+#EXTINF:-1,AR: Noor Alsharq
+http://163.172.89.139:1795/live/dogus1/dogus1/17340.ts
+#EXTINF:-1,AR: NOOR DUBAI
+http://163.172.89.139:1795/live/dogus1/dogus1/17529.ts
+#EXTINF:-1,AR: NUMIDIA TV NEWS
+http://163.172.89.139:1795/live/dogus1/dogus1/17339.ts
+#EXTINF:-1,AR: OMAN
+http://163.172.89.139:1795/live/dogus1/dogus1/17338.ts
+#EXTINF:-1,AR: OMAN LIVE
+http://163.172.89.139:1795/live/dogus1/dogus1/17337.ts
+#EXTINF:-1,AR: Oman Sport
+http://163.172.89.139:1795/live/dogus1/dogus1/17336.ts
+#EXTINF:-1,AR: ON LIVE HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17335.ts
+#EXTINF:-1,AR: ON SPORT
+http://163.172.89.139:1795/live/dogus1/dogus1/17334.ts
+#EXTINF:-1,AR: ONTV Live
+http://163.172.89.139:1795/live/dogus1/dogus1/17333.ts
+#EXTINF:-1,AR: Orient News
+http://163.172.89.139:1795/live/dogus1/dogus1/17332.ts
+#EXTINF:-1,AR: OSN ALKASS SPORT 1 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17692.ts
+#EXTINF:-1,AR: OSN ALKASS SPORT 2 HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17691.ts
+#EXTINF:-1,AR: OSN MBC DRAMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17690.ts
+#EXTINF:-1,AR: OSN MOVIES DRAMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17689.ts
+#EXTINF:-1,AR: OSN MOVIES PREMIERE HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17688.ts
+#EXTINF:-1,AR: OSN ON DEMANDE 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17687.ts
+#EXTINF:-1,AR: OSN OSN MOVIE
+http://163.172.89.139:1795/live/dogus1/dogus1/17686.ts
+#EXTINF:-1,AR: OSN STAR MOVIES
+http://163.172.89.139:1795/live/dogus1/dogus1/17685.ts
+#EXTINF:-1,AR: OSN YAHALA HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17684.ts
+#EXTINF:-1,AR: Palestine
+http://163.172.89.139:1795/live/dogus1/dogus1/17331.ts
+#EXTINF:-1,AR: Palestine Alaqsa
+http://163.172.89.139:1795/live/dogus1/dogus1/17330.ts
+#EXTINF:-1,AR: Palestine Alfajr
+http://163.172.89.139:1795/live/dogus1/dogus1/17329.ts
+#EXTINF:-1,AR: Palestine Awdeh
+http://163.172.89.139:1795/live/dogus1/dogus1/17328.ts
+#EXTINF:-1,AR: Palestine Kofiya
+http://163.172.89.139:1795/live/dogus1/dogus1/17327.ts
+#EXTINF:-1,AR: Palestine live
+http://163.172.89.139:1795/live/dogus1/dogus1/17326.ts
+#EXTINF:-1,AR: Palestine Nablus live
+http://163.172.89.139:1795/live/dogus1/dogus1/17325.ts
+#EXTINF:-1,AR: Palestine News
+http://163.172.89.139:1795/live/dogus1/dogus1/17324.ts
+#EXTINF:-1,AR: Palestine Today
+http://163.172.89.139:1795/live/dogus1/dogus1/17323.ts
+#EXTINF:-1,AR: PANORAMA DRAMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17322.ts
+#EXTINF:-1,AR: PANORAMA DRAMA 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17321.ts
+#EXTINF:-1,AR: PANORAMA FILM
+http://163.172.89.139:1795/live/dogus1/dogus1/17320.ts
+#EXTINF:-1,AR: Panorama Food
+http://163.172.89.139:1795/live/dogus1/dogus1/17319.ts
+#EXTINF:-1,AR: Panorama-Drama
+http://163.172.89.139:1795/live/dogus1/dogus1/17318.ts
+#EXTINF:-1,AR: Panorama-Drama-2
+http://163.172.89.139:1795/live/dogus1/dogus1/17317.ts
+#EXTINF:-1,AR: Panorama-Film
+http://163.172.89.139:1795/live/dogus1/dogus1/17316.ts
+#EXTINF:-1,AR: PANOROMA COMEDY
+http://163.172.89.139:1795/live/dogus1/dogus1/17683.ts
+#EXTINF:-1,AR: PANOROMA DRAMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17682.ts
+#EXTINF:-1,AR: PANOROMA DRAMA 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17681.ts
+#EXTINF:-1,AR: PANOROMA DRAMA 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17680.ts
+#EXTINF:-1,AR: Qatar
+http://163.172.89.139:1795/live/dogus1/dogus1/17315.ts
+#EXTINF:-1,AR: Qatar AlRayyan
+http://163.172.89.139:1795/live/dogus1/dogus1/17314.ts
+#EXTINF:-1,AR: QUEST ARABIA (DOC)
+http://163.172.89.139:1795/live/dogus1/dogus1/17313.ts
+#EXTINF:-1,AR: QURAN TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17528.ts
+#EXTINF:-1,AR: QURAN TV ksa
+http://163.172.89.139:1795/live/dogus1/dogus1/17527.ts
+#EXTINF:-1,AR: Radio Mosaique Fm
+http://163.172.89.139:1795/live/dogus1/dogus1/17312.ts
+#EXTINF:-1,AR: RED SEA
+http://163.172.89.139:1795/live/dogus1/dogus1/17311.ts
+#EXTINF:-1,AR: ROTANA
+http://163.172.89.139:1795/live/dogus1/dogus1/17679.ts
+#EXTINF:-1,AR: ROTANA AFLAM
+http://163.172.89.139:1795/live/dogus1/dogus1/17678.ts
+#EXTINF:-1,AR: ROTANA AFLAM HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17677.ts
+#EXTINF:-1,AR: ROTANA CINEMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17676.ts
+#EXTINF:-1,AR: ROTANA CLASSIC
+http://163.172.89.139:1795/live/dogus1/dogus1/17675.ts
+#EXTINF:-1,AR: ROTANA CLASSIC SD
+http://163.172.89.139:1795/live/dogus1/dogus1/17674.ts
+#EXTINF:-1,AR: ROTANA CLIP
+http://163.172.89.139:1795/live/dogus1/dogus1/17673.ts
+#EXTINF:-1,AR: ROTANA KHALIJIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17672.ts
+#EXTINF:-1,AR: ROTANA MASSRIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17671.ts
+#EXTINF:-1,AR: ROTANA MUSIC
+http://163.172.89.139:1795/live/dogus1/dogus1/17670.ts
+#EXTINF:-1,AR: ROTANA MUSIC HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17669.ts
+#EXTINF:-1,AR: Rotana-Masriya
+http://163.172.89.139:1795/live/dogus1/dogus1/17668.ts
+#EXTINF:-1,AR: SADA ELBALAD DRAMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17526.ts
+#EXTINF:-1,AR: SAMA DUBAI
+http://163.172.89.139:1795/live/dogus1/dogus1/17525.ts
+#EXTINF:-1,AR: SAMA TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17524.ts
+#EXTINF:-1,AR: SAUDI 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17523.ts
+#EXTINF:-1,AR: SAUDI 2 TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17522.ts
+#EXTINF:-1,AR: SAUDI SPORT
+http://163.172.89.139:1795/live/dogus1/dogus1/17521.ts
+#EXTINF:-1,AR: SEMSEM (KIDS)
+http://163.172.89.139:1795/live/dogus1/dogus1/17310.ts
+#EXTINF:-1,AR: SHA3BEYAT
+http://163.172.89.139:1795/live/dogus1/dogus1/17520.ts
+#EXTINF:-1,AR: SHARQIA KARBALA
+http://163.172.89.139:1795/live/dogus1/dogus1/17519.ts
+#EXTINF:-1,AR: SIMSIM KIDS
+http://163.172.89.139:1795/live/dogus1/dogus1/17309.ts
+#EXTINF:-1,AR: SKY NEWS
+http://163.172.89.139:1795/live/dogus1/dogus1/17308.ts
+#EXTINF:-1,AR: SKY NEWS ARABIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17518.ts
+#EXTINF:-1,AR: SPACE TOON
+http://163.172.89.139:1795/live/dogus1/dogus1/17517.ts
+#EXTINF:-1,AR: SPACETOON
+http://163.172.89.139:1795/live/dogus1/dogus1/17516.ts
+#EXTINF:-1,AR: STAR CINEMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17515.ts
+#EXTINF:-1,AR: Star Cinema 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17307.ts
+#EXTINF:-1,AR: Star Cinema 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17306.ts
+#EXTINF:-1,AR: Sudan
+http://163.172.89.139:1795/live/dogus1/dogus1/17305.ts
+#EXTINF:-1,AR: Sudan BlueNile
+http://163.172.89.139:1795/live/dogus1/dogus1/17304.ts
+#EXTINF:-1,AR: SUDAN DRAMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17303.ts
+#EXTINF:-1,AR: Sudan Kassala
+http://163.172.89.139:1795/live/dogus1/dogus1/17302.ts
+#EXTINF:-1,AR: Sudan Khartoum
+http://163.172.89.139:1795/live/dogus1/dogus1/17301.ts
+#EXTINF:-1,AR: Sudan Music
+http://163.172.89.139:1795/live/dogus1/dogus1/17300.ts
+#EXTINF:-1,AR: Sudan OmDorman
+http://163.172.89.139:1795/live/dogus1/dogus1/17299.ts
+#EXTINF:-1,AR: Sudan TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17298.ts
+#EXTINF:-1,AR: Syria
+http://163.172.89.139:1795/live/dogus1/dogus1/17514.ts
+#EXTINF:-1,AR: SYRIA AL KHBARIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17297.ts
+#EXTINF:-1,AR: Syria Aloula
+http://163.172.89.139:1795/live/dogus1/dogus1/17513.ts
+#EXTINF:-1,AR: SYRIA DRAMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17512.ts
+#EXTINF:-1,AR: Syria Education
+http://163.172.89.139:1795/live/dogus1/dogus1/17296.ts
+#EXTINF:-1,AR: Syria Halab
+http://163.172.89.139:1795/live/dogus1/dogus1/17295.ts
+#EXTINF:-1,AR: Syria Medical
+http://163.172.89.139:1795/live/dogus1/dogus1/17294.ts
+#EXTINF:-1,AR: Syria News
+http://163.172.89.139:1795/live/dogus1/dogus1/17293.ts
+#EXTINF:-1,AR: Syria Nour ALSham
+http://163.172.89.139:1795/live/dogus1/dogus1/17292.ts
+#EXTINF:-1,AR: SYRIA TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17511.ts
+#EXTINF:-1,AR: TAMAZIGHT
+http://163.172.89.139:1795/live/dogus1/dogus1/17510.ts
+#EXTINF:-1,AR: TELE MAROC
+http://163.172.89.139:1795/live/dogus1/dogus1/17291.ts
+#EXTINF:-1,AR: TELVZA TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17290.ts
+#EXTINF:-1,AR: TOKTOK AFLAM
+http://163.172.89.139:1795/live/dogus1/dogus1/17289.ts
+#EXTINF:-1,AR: TOKTOK CIMA
+http://163.172.89.139:1795/live/dogus1/dogus1/17288.ts
+#EXTINF:-1,AR: TOUNESNA
+http://163.172.89.139:1795/live/dogus1/dogus1/17287.ts
+#EXTINF:-1,AR: Toyor AlJanah
+http://163.172.89.139:1795/live/dogus1/dogus1/17509.ts
+#EXTINF:-1,AR: TOYOUR BABY
+http://163.172.89.139:1795/live/dogus1/dogus1/17286.ts
+#EXTINF:-1,AR: TUNISIA NAT 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17508.ts
+#EXTINF:-1,AR: TUNISIA NATIONAL 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17507.ts
+#EXTINF:-1,AR: Tunisie Nat 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17506.ts
+#EXTINF:-1,AR: TUNISNA
+http://163.172.89.139:1795/live/dogus1/dogus1/17285.ts
+#EXTINF:-1,AR: UMDURMAN TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17284.ts
+#EXTINF:-1,AR: WANAASA
+http://163.172.89.139:1795/live/dogus1/dogus1/17283.ts
+#EXTINF:-1,AR: WESAL
+http://163.172.89.139:1795/live/dogus1/dogus1/17505.ts
+#EXTINF:-1,AR: Wesal Islamic
+http://163.172.89.139:1795/live/dogus1/dogus1/17282.ts
+#EXTINF:-1,AR: Yas Sport
+http://163.172.89.139:1795/live/dogus1/dogus1/17281.ts
+#EXTINF:-1,AR: Yemen
+http://163.172.89.139:1795/live/dogus1/dogus1/17280.ts
+#EXTINF:-1,AR: YEMEN AL SHARIA
+http://163.172.89.139:1795/live/dogus1/dogus1/17279.ts
+#EXTINF:-1,AR: Yemen AlMasirah
+http://163.172.89.139:1795/live/dogus1/dogus1/17278.ts
+#EXTINF:-1,AR: YEMEN SANA
+http://163.172.89.139:1795/live/dogus1/dogus1/17277.ts
+#EXTINF:-1,AR: YEMEN SHABAB
+http://163.172.89.139:1795/live/dogus1/dogus1/17276.ts
+#EXTINF:-1,AR: YEMEN TODAY
+http://163.172.89.139:1795/live/dogus1/dogus1/17275.ts
+#EXTINF:-1,AR: ZAD TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17274.ts
+#EXTINF:-1,AR: ZAYTOUNA HIDAYA
+http://163.172.89.139:1795/live/dogus1/dogus1/17504.ts
+#EXTINF:-1,AR: ZEE AFLAM
+http://163.172.89.139:1795/live/dogus1/dogus1/17503.ts
+#EXTINF:-1,AR: ZEE ALWAN
+http://163.172.89.139:1795/live/dogus1/dogus1/17502.ts
+#EXTINF:-1,AR: Zee Alwen
+http://163.172.89.139:1795/live/dogus1/dogus1/17501.ts
+#EXTINF:-1,AR: ZITOUNA TV
+http://163.172.89.139:1795/live/dogus1/dogus1/17273.ts
+#EXTINF:-1,AR:Al Kahera Wal Nas 1
+http://163.172.89.139:1795/live/dogus1/dogus1/17272.ts
+#EXTINF:-1,AR:Al Kahera Wal Nas 2
+http://163.172.89.139:1795/live/dogus1/dogus1/17271.ts
+#EXTINF:-1,AR:LIBYA NEWS
+http://163.172.89.139:1795/live/dogus1/dogus1/17270.ts
+#EXTINF:-1,AR:Libya One
+http://163.172.89.139:1795/live/dogus1/dogus1/17269.ts
+#EXTINF:-1,AR:LIBYA RSMIA Ch
+http://163.172.89.139:1795/live/dogus1/dogus1/17268.ts
+#EXTINF:-1,AR_beINSport1HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17717.m3u8
+#EXTINF:-1,AR_beINSport2HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17716.m3u8
+#EXTINF:-1,AR_beINSport3HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17715.m3u8
+#EXTINF:-1,AR_beINSport4HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17714.m3u8
+#EXTINF:-1,AR_beINSport5HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17713.m3u8
+#EXTINF:-1,AR_beINSport6HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17712.m3u8
+#EXTINF:-1,AR_beINSport7HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17711.m3u8
+#EXTINF:-1,AR_beINSport8HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17710.m3u8
+#EXTINF:-1,AR_beINSport9HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17709.m3u8
+#EXTINF:-1,AR_beINSport10HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17708.m3u8
+#EXTINF:-1,AR_BEIN-SPORTS11HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17707.m3u8
+#EXTINF:-1,AR_BEIN-SPORTS12HD
+http://163.172.89.139:1795/live/dogus1/dogus1/17706.m3u8
